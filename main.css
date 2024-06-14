@@ -1,0 +1,26 @@
+p{
+    padding-top: 20px;
+    white-space: pre-wrap;
+}
+
+.espaço{
+    padding-top: 20px;
+}
+
+.default-font {
+    text-decoration: none;
+    color: inherit;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.custom-list {
+    list-style-type: disc; 
+    padding-left: 100px; 
+}
+
+.titlelist{
+    padding-left: 20px;
+}
